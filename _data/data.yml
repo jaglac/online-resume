@@ -27,14 +27,14 @@ skill:
   groups:
     - name: Biological Data Science
       item:
-        - Next-generation sequencing - genomics, transcriptomics, proteomics, single cell omics, integrative multi-omics
+        - Genomics, transcriptomics, proteomics, single cell omics, integrative multi-omics
     - name: Programming Languages
       item:
         - R (R Shiny)
         - Python
         - Perl
         - Bash
-        - SQL (Postges, SQLite)
+        - SQL (Postgres, SQLite)
     - name: Programming Tools
       item:
         - Docker & Apptainer (containerization)
@@ -45,12 +45,13 @@ skill:
         - High Security
         - UNIX/Linux
         - Windows
-        - Mac OSX
-    - name: Biological Data Science Software
+        - macOS
+    - name: Biological Science Software
       item:
         - CLC Genomics Workbench
         - GraphPad Prism
         - FlowJo
+        - ImageJ
     - name: Additional Software
       item:
         - Microsoft Office
@@ -90,11 +91,11 @@ experience:
   title: Professional Experience
   description: |
   items:
-    - company: Raytheon BBN
+    - company: Bioinformatics Scientist 
       link: 
       tags: 
       date: 2024.06 - Present
-      role: Bioinformatics Scientist
+      role: Raytheon BBN
       location: Charlottesville, VA
       description: |
         Contributing to interdisciplinary programs bringing together biology, engineering, and data science to develop and transition new biotechnology solutions in support of national defense.
@@ -103,11 +104,11 @@ experience:
         + Performing biostatistical analyses
         + Communicating scientific subject matter (publications, presentations, and proposals)
 
-    - company: Signature Science (via Worldwide Counter Threat Solutions)
+    - company: Bioinformatics Data Scientist 
       link:
       tags: 
       date: 2023.08 - 2024.06
-      role: Bioinformatics Data Scientist
+      role: Signature Science (via Worldwide Counter Threat Solutions)
       location: Charlottesville, VA
       description: |
         Advanced R&D for genetic exploitation for intelligence purposes related to human DNA and biowarfare agents by building software, tools, and databases.
@@ -116,11 +117,11 @@ experience:
         + Engineered and managed custom databases for sequence analysis
         + Implemented computational tools and methods to interpret biological meaning from genetic and genomic data
 
-    - company: University of Virginia, Research Computing
+    - company: Computational Scientist 
       link:
       tags: 
       date: 2023.02 - 2023.08
-      role: Computational Scientist
+      role: University of Virginia, Research Computing
       location: Charlottesville, VA
       description: |
         Faciliated biological and biomedical research by engaging with faculty to produce new computing solutions within their fields of research.
@@ -130,22 +131,22 @@ experience:
         + Taught workshops on various subjects including data visualization, single-cell RNAseq, and predictive protein folding machine learning models
         + Implemented GPU-accelerated bioinformatics software packages on high-performance computing cluster
 
-    - company: University of Virginia, Biomedical Sciences
+    - company: First-Year PhD Student 
       link:
       tags: 
       date: 2021.07 - 2022.05
-      role: First-Year PhD Student
+      role: University of Virginia, Biomedical Sciences
       location: Charlottesville, VA
       description: |
         Undertook research projects as part of PhD program lab rotations.
         + Fallahi-Sichani Lab: analyzed transcriptional data from publicly available sources (TCGA, CCLE, etc.) using dimensionality reduction and machine learning to investigate the relationship of cAMP/CREB signaling pathways to baseline differentiation state in BRAF-mutant melanoma cell lines
         + Zunder Lab: built R Shiny app for processing and analyzing high-dimensional single-cell proteomics (mass cytometry) data
 
-    - company: Duke University
+    - company: Research Technician II 
       link:
       tags: 
       date: 2019.05 - 2021.06
-      role: Research Technician II
+      role: Duke University
       location: Durham, NC
       description: |
         Managed independent research project by developing wet-lab methods, designing and executing experiments, and building novel bioinformatic analysis pipelines.
@@ -153,11 +154,11 @@ experience:
         + Investigated the regulation of GPCR-mediated gene expression, including functional selectivity in transcriptional and post-transcriptional responses to agonist treatment
         + Facilitated colleagues' research via lab management duties (training of new personnel, safety compliance, inventory management)
   
-    - company: Pfizer (via Spectrix Analytical Services)
+    - company: In Vitro Biologist 
       link:
       tags: 
       date: 2017.11 - 2019.05
-      role: In Vitro Biologist
+      role: Pfizer (via Spectrix Analytical Services)
       location: Groton, CT
       description: |
         Contributed to assay development and research projects, and executed high-throughput screens of thousands of compounds weekly.
@@ -165,11 +166,11 @@ experience:
         + Independently optimized and modified experimental protocols to facilitate screening of compounds with abnormal physicochemical properties, resulting in the first collection of metabolic stability data for compounds of this type
         + Evaluated hepatic metabolic stability and drug-drug interactions at cytochrome P450s of 1000+ compounds weekly in high-throughput plate-based assays, including use of automated liquid handlers, LC-MS/MS bioanalysis, and statistical data analysis
 
-    - company: University of Connecticut
+    - company: Undergradute Research Assistant 
       link:
       tags: 
       date: 2015.07 - 2017.08
-      role: Undergradute Research Assistant
+      role: University of Connecticut
       location: Storrs, CT
       description: |
         Managed ongoing multi-lab research project focused on drug discovery for novel pain therapies.
@@ -178,5 +179,27 @@ experience:
         + Facilitated colleagues' research via lab management duties (training of new personnel, safety compliance, inventory management)
 
 
+publication:
+  show: true
+  order: 4
+  title: Publications & Abstracts
+  description: |
+  items:
+    - title: Multiomics Approach to Interrogate Translational Regulation of GPCR Signaling and its Spatial Bias
+      authors: Klauer MJ, *Jagla C*, Tsvetanova N
+      conference: J Pharmacology and Experimental Therapeutics, 2023
+      link: 'https://doi.org/10.1124/jpet.122.168870'
+    - title: Post-Transcriptional Regulation of Cellular Responses to GPCR Signaling
+      authors: *Jagla C*, Tsvetanova N
+      conference: The FASEB Journal, 2021
+      link: 'https://doi.org/10.1096/fasebj.2021.35.S1.04553'
+    - title: Mechanistic Insights on Clearance and Inhibition Discordance Between Liver Microsomes and Hepatocytes When Clearance in Liver Microsomes is Higher than in Hepatocytes
+      authors: Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, *Jagla C*, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L
+      conference: Eur J Pharm Sci, 2020
+      link: 'https://doi.org/10.1016/j.ejps.2020.105541'
+    - title: Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin-Dependent Responses
+      authors: *Jagla CAD*, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA
+      conference: Mol Pharmacol, 2019
+      link: 'https://doi.org/10.1124/mol.118.112854'
 
 close: <strong>Sorry, my resume has been hidden.</strong>
