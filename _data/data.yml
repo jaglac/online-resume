@@ -202,4 +202,29 @@ publication:
       conference: Mol Pharmacol, 2019
       link: 'https://doi.org/10.1124/mol.118.112854'
 
+award:
+  show: true
+  order: 5
+  title: Awards
+  description: |
+  items:
+    - name: Research Funding: IDEA Grant
+      awarder: University of Connecticut 
+      date: 2016
+      link: 
+      description: |
+        One of 19 students awarded a $4000 grant from a competitive, University-wide program to support a self-designed independent research project; investigated GPCR dimerization using immunofluorescence-based proximity ligation assays.
+
+certificate:
+  show: false
+  order: 6
+  title: Certificates
+  description: |
+  items:
+    - name: Quantitative Digital Image Analysis
+      issuer: Harvard Medical School
+      date: 2016
+      link: 
+      description: |
+
 close: <strong>Sorry, my resume has been hidden.</strong>
