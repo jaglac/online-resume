@@ -58,7 +58,7 @@ skill:
         - UNIX/Linux
         - Windows
         - macOS
-    - name: Biological Science Software
+    - name: Scientific Software
       item:
         - CLC Genomics Workbench
         - GraphPad Prism
