@@ -19,9 +19,50 @@ contact:
   linkedin: jaglacad               # username          | https://linkedin.com/in/username
 
 
-education:
+skill:
   show: true
   order: 1
+  title: Skills
+  description: |
+  groups:
+    - name: Biological Data Science
+      item:
+        - Next-generation sequencing - genomics, transcriptomics, proteomics, single cell omics, integrative multi-omics
+    - name: Programming Languages
+      item:
+        - R (R Shiny)
+        - Python
+        - Perl
+        - Bash
+        - SQL (Postges, SQLite)
+    - name: Programming Tools
+      item:
+        - Docker & Apptainer (containerization)
+        - Git (version control)
+    - name: Computing Environments
+      item:
+        - High Performance 
+        - High Security
+        - UNIX/Linux
+        - Windows
+        - Mac OSX
+    - name: Biological Data Science Software
+      item:
+        - CLC Genomics Workbench
+        - GraphPad Prism
+        - FlowJo
+    - name: Additional Software
+      item:
+        - Microsoft Office
+        - Adobe Creative Cloud
+        - EndNote
+        - Zotero
+
+
+
+education:
+  show: true
+  order: 2
   title: Education
   description: |
 
@@ -46,7 +87,7 @@ education:
 experience:
   show: true
   order: 3
-  title: Experiences
+  title: Professional Experience
   description: |
   items:
     - company: Raytheon BBN
