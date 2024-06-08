@@ -19,6 +19,30 @@ contact:
   linkedin: jaglacad               # username          | https://linkedin.com/in/username
 
 
+education:
+  show: true
+  order: 1
+  title: Education
+  description: |
+
+  items:
+    - institution: University of California - Irvine
+      link: 
+      date: 2019 - 2021
+      major: Pharmacology
+      degree: M.S.
+      description: |
+        + GPA: 3.7
+        
+    - institution: University of Connecticut
+      link:
+      date: 2013 - 2017
+      major: Molecular and Cell Biology
+      degree: B.S.
+      description: |
+        + Overall GPA: 3.4
+        + Major GPA: 3.7
+
 experience:
   show: true
   order: 3
