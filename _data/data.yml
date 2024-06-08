@@ -182,23 +182,23 @@ experience:
 publication:
   show: true
   order: 4
-  title: Publications & Abstracts
+  title: Publications and Abstracts
   description: |
   items:
     - title: Multiomics Approach to Interrogate Translational Regulation of GPCR Signaling and its Spatial Bias
-      authors: Klauer MJ, *Jagla C*, Tsvetanova N
+      authors: Klauer MJ, Jagla C, Tsvetanova N
       conference: J Pharmacology and Experimental Therapeutics, 2023
       link: 'https://doi.org/10.1124/jpet.122.168870'
     - title: Post-Transcriptional Regulation of Cellular Responses to GPCR Signaling
-      authors: *Jagla C*, Tsvetanova N
+      authors: Jagla C, Tsvetanova N
       conference: The FASEB Journal, 2021
       link: 'https://doi.org/10.1096/fasebj.2021.35.S1.04553'
     - title: Mechanistic Insights on Clearance and Inhibition Discordance Between Liver Microsomes and Hepatocytes When Clearance in Liver Microsomes is Higher than in Hepatocytes
-      authors: Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, *Jagla C*, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L
+      authors: Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, Jagla C, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L
       conference: Eur J Pharm Sci, 2020
       link: 'https://doi.org/10.1016/j.ejps.2020.105541'
     - title: Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin-Dependent Responses
-      authors: *Jagla CAD*, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA
+      authors: Jagla CAD, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA
       conference: Mol Pharmacol, 2019
       link: 'https://doi.org/10.1124/mol.118.112854'
 
