@@ -287,78 +287,53 @@ certificate:
   order: 6
   title: Certificates
   description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
+    - name: Quantitative Digital Image Analysis
+      issuer: Harvard Medical School
+      date: 2016
+      link: 
       description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
-      link:
-      description: |
-        It's my Example Certificate Two by Example.
 
 publication:
   show: true
   order: 7
-  title: Publications
+  title: Publications & Abstracts
   description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+    - title: Multiomics Approach to Interrogate Translational Regulation of GPCR Signaling and its Spatial Bias
+      authors: Klauer MJ, *Jagla C*, Tsvetanova N
+      conference: J Pharmacology and Experimental Therapeutics, 2023
+      link: 'https://doi.org/10.1124/jpet.122.168870'
+    - title: Post-Transcriptional Regulation of Cellular Responses to GPCR Signaling
+      authors: *Jagla C*, Tsvetanova N
+      conference: The FASEB Journal, 2021
+      link: 'https://doi.org/10.1096/fasebj.2021.35.S1.04553'
+    - title: Mechanistic Insights on Clearance and Inhibition Discordance Between Liver Microsomes and Hepatocytes When Clearance in Liver Microsomes is Higher than in Hepatocytes
+      authors: Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, *Jagla C*, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L
+      conference: Eur J Pharm Sci, 2020
+      link: 'https://doi.org/10.1016/j.ejps.2020.105541'
+    - title: Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin-Dependent Responses
+      authors: *Jagla CAD*, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA
+      conference: Mol Pharmacol, 2019
+      link: 'https://doi.org/10.1124/mol.118.112854'
+            
 
 award:
   show: true
   order: 8
   title: Awards
   description: |
-    The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
-
-    When including your awards on your resume, be sure to focus on the most significant or relevant awards that showcase your skills and expertise. If you have received a long list of awards, you may want to consider including only the most recent or prestigious awards on your resume.
-
-    By highlighting your awards, you can demonstrate your achievements and accomplishments in your field, and can help differentiate yourself from other candidates. However, if you have not received any awards, it is not necessary to include this section in your resume.
-
   items:
-    - name: Example Awared One
-      awarder: by Example
-      date: 2022
-      link: '#'
+    - name: Research Funding: IDEA Grant
+      awarder: University of Connecticut 
+      date: 2016
+      link: 
       description: |
-        It's my Example Awared One by Example.
-    - name: Example Awared Two
-      awarder: by Example
-      date: 2022
-      link:
-      description: |
-        It's my Example Awared Two by Example.
+        One of 19 students awarded a $4000 grant from a competitive, University-wide program to support a self-designed independent research project; investigated GPCR dimerization using immunofluorescence-based proximity ligation assays.
+
 
 patent:
-  show: true
+  show: false
   order: 9
   title: Patents
   description: |
