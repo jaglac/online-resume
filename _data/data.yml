@@ -19,20 +19,9 @@ contact:
   linkedin: jaglacad               # username          | https://linkedin.com/in/username
 
 
-
-
-profile:
-  show: false
-  order: 1
-  title: Profile
-  description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
-
 experience:
   show: true
-  order: 4
+  order: 3
   title: Experiences
   description: |
   items:
@@ -127,13 +116,13 @@ experience:
 
 skill:
   show: true
-  order: 3
+  order: 2
   title: Skills
   description: |
   groups:
     - name: Biological Data Science
       item:
-        - "Next-generation sequencing: genomics, transcriptomics, proteomics, single cell 'omics, integrative multi-omics"
+        - Next-generation sequencing - genomics, transcriptomics, proteomics, single cell omics, integrative multi-omics
     - name: Programming Languages
       item:
         - R (R Shiny)
@@ -166,7 +155,7 @@ skill:
 
 education:
   show: true
-  order: 2
+  order: 1
   title: Education
   description: |
 
@@ -190,7 +179,7 @@ education:
 
 certificate:
   show: false
-  order: 6
+  order: 
   title: Certificates
   description: |
   items:
@@ -202,7 +191,7 @@ certificate:
 
 publication:
   show: true
-  order: 5
+  order: 4
   title: Publications & Abstracts
   description: |
   items:
@@ -226,7 +215,7 @@ publication:
 
 award:
   show: true
-  order: 6
+  order: 5
   title: Awards
   description: |
   items:
