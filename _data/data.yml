@@ -27,7 +27,18 @@ skill:
   groups:
     - name: Biological Data Science
       item:
-        - Genomics, transcriptomics, proteomics, single cell omics, integrative multi-omics
+        - Bulk and single cell `omics
+        - Integrative multi-omics
+        - Image analysis
+        - High-throughput screening
+    - name: Data Analysis
+      item:
+        - Data visualization
+        - Statistical analysis
+    - name: Database Management
+      item:
+        - Data engineering
+        - Data wrangling
     - name: Programming Languages
       item:
         - R (R Shiny)
@@ -39,7 +50,8 @@ skill:
       item:
         - Docker & Apptainer (containerization)
         - Git (version control)
-    - name: Computing Environments
+        - Slurm (HPC job management)
+    - name: Computing
       item:
         - High Performance 
         - High Security
