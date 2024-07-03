@@ -197,6 +197,10 @@ publication:
   title: Publications and Abstracts
   description: |
   items:
+    - title: Extensive Location Bias of the GPCR-Dependent Translatome via Site-Selective Activation of mTOR
+      authors: Klauer MJ, Jagla CAD, Tsvetanova N
+      conference: bioRxiv, 2024
+      link: 'https://doi.org/10.1101/2024.06.17.599400'
     - title: Multiomics Approach to Interrogate Translational Regulation of GPCR Signaling and its Spatial Bias
       authors: Klauer MJ, Jagla C, Tsvetanova N
       conference: J Pharmacology and Experimental Therapeutics, 2023
