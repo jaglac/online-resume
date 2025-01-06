@@ -20,7 +20,7 @@ contact:
 
 
 skill:
-  show: true
+  show: false
   order: 1
   title: Skills
   description: |
@@ -85,17 +85,12 @@ education:
       date: 2019 - 2021
       major: Pharmacology
       degree: M.S.
-      description: |
-        + GPA: 3.7
         
     - institution: University of Connecticut
       link:
       date: 2013 - 2017
       major: Molecular and Cell Biology
       degree: B.S.
-      description: |
-        + Overall GPA: 3.4
-        + Major GPA: 3.7
 
 experience:
   show: true
@@ -111,9 +106,8 @@ experience:
       location: Charlottesville, VA
       description: |
         Contributing to interdisciplinary programs bringing together biology, engineering, and data science to develop and transition new biotechnology solutions in support of national defense.
-        + Building and developing bioinformatics software (R packages, R Shiny apps, Python libraries, Docker images, etc.)
-        + Performing data science (analysis, automation, and visualization)
-        + Performing biostatistical analyses
+        + Building and developing bioinformatics software
+        + Performing data science (analysis, automation, and visualization) & biostatistical analyses
         + Communicating scientific subject matter (publications, presentations, and proposals)
 
     - company: Bioinformatics Data Scientist 
@@ -123,7 +117,7 @@ experience:
       role: Signature Science (via Worldwide Counter Threat Solutions)
       location: Charlottesville, VA
       description: |
-        Advanced R&D for genetic exploitation for intelligence purposes related to human DNA and biowarfare agents by building software, tools, and databases.
+        Advanced R&D for genetic exploitation for intelligence purposes related to human DNA and biowarfare agents.
         + Developed pipelines, packages, tools, and Docker containers to support genetic and genomic data analysis
         + Built and optimized computational methods for data and database exploitation
         + Engineered and managed custom databases for sequence analysis
@@ -142,17 +136,6 @@ experience:
         + Consulted on bioinformatics research projects including transcriptomics, genomics, single cell 'omics, multi-omics, etc.
         + Taught workshops on various subjects including data visualization, single-cell RNAseq, and predictive protein folding machine learning models
         + Implemented GPU-accelerated bioinformatics software packages on high-performance computing cluster
-
-    - company: First-Year PhD Student 
-      link:
-      tags: 
-      date: 2021.07 - 2022.05
-      role: University of Virginia, Biomedical Sciences
-      location: Charlottesville, VA
-      description: |
-        Undertook research projects as part of PhD program lab rotations.
-        + Fallahi-Sichani Lab: analyzed transcriptional data from publicly available sources (TCGA, CCLE, etc.) using dimensionality reduction and machine learning to investigate the relationship of cAMP/CREB signaling pathways to baseline differentiation state in BRAF-mutant melanoma cell lines
-        + Zunder Lab: built R Shiny app for processing and analyzing high-dimensional single-cell proteomics (mass cytometry) data
 
     - company: Research Technician II 
       link:
