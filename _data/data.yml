@@ -26,7 +26,7 @@ skill:
   description: |
   Expertise in building production‑ready, scalable bio‑informatics solutions for multi‑omics data integration, pathogen surveillance, and protein‑function analysis.
   groups:
-    - name: `Omics Data Science
+    - name: Omics Data Science
       item:
         - Bulk & single cell genomics, metagenomics, transcriptomics, translatomics
         - End-to-end development of integrative multi-omics pipelines
