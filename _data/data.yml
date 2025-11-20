@@ -22,37 +22,33 @@ contact:
 skill:
   show: true
   order: 1
-  title: Skills
+  title: Core Competencies
   description: |
+  Expertise in building production‑ready, scalable bio‑informatics solutions for multi‑omics data integration, pathogen surveillance, and protein‑function analysis.
   groups:
-    - name: Genomics & multi-omics
+    - name: `Omics Data Science
       item:
-        - Bulk & single cell `omics, integrative multi-omics
-        - End-to-end pipeline development
-    - name: Biological data science   
+        - Bulk & single cell genomics, metagenomics, transcriptomics, translatomics
+        - End-to-end development of integrative multi-omics pipelines
+        - Differential expression & pathway/functional enrichment
+        - Pathogen identification, biosurveillance, threat detection
+    - name: Protein Analytics
       item:
-        - Data visualization
-        - Statistical analysis
-        - Microscopy image analysis
-        - High-throughput assay analysis
-    - name: Data engineering
-      item:
-        - ETL pipelines, schema design
-        - Database management        
-        - SQL (Postgres, SQLite)
-    - name: Programming
-      item:
-        - Python
-        - R (including Shiny)
-        - Bash
-        - Perl
+        - AI‑assisted protein design & resilience analysis (AlphaFold, ProteinMPNN)
+        - Homology modeling, motif discovery, functional annotation (InterPro, Pfam)
     - name: Scalable solutions
       item:
-        - Docker
-        - Apptainer (Singularity)        
-        - Slurm (High Performance Computing)
-        - Git
-        - CI/CD
+        - Containerization (Docker, Apptainer/Singularity)
+        - HPC-native orchestration (Slurm, Apptainer)
+        - Version control, CI/CD, test-driven development, reproducible environments (Git, Jenkins, pytest, conda, renv, venv)
+        - Data engineering, ETL pipelines, schema design
+        - Relational databases, SQL (Postgres, SQLite)
+    - name: Programming & visualization
+      item:
+        - Python (Biopython, pandas, NumPy, scikit‑learn)
+        - R (Bioconductor, tidyverse, R/Shiny)
+        - Bash, Perl, SQL
+        - Interactive visualisation (Plotly, R/Shiny, ggplot2, Seurat)
 
 
 
