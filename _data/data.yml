@@ -40,15 +40,13 @@ skill:
     - name: Scalable Bioinformatics Engineering
       item:
         - Docker
-        - Apptainer (formerly Singularity)
+        - Apptainer (Singularity)        
+        - Slurm (High Performance Computing)
         - Git
         - CI/CD
-        - Slurm (High Performance Computing)
-    - name: Database Management
-      item:
-        - SQL (Postgres, SQLite)
         - Data engineering
-        - Data wrangling
+        - Database management        
+        - SQL (Postgres, SQLite)
     - name: Data Analysis
       item:
         - Data visualization
