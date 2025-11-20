@@ -35,9 +35,9 @@ skill:
         - High-throughput assay analysis        
         - Data visualization
         - Statistical analysis
-    - name: Database & data engineering
+    - name: Data engineering
       item:
-        - Data engineering
+        - ETL pipelines, schema design
         - Database management        
         - SQL (Postgres, SQLite)
     - name: Programming
