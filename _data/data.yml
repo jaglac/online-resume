@@ -25,38 +25,37 @@ skill:
   title: Skills
   description: |
   groups:
-    - name: Biological Data Science
+    - name: Genomics & multi-omics
       item:
-        - Bulk and single cell `omics
+        - Bulk & single cell `omics
         - Integrative multi-omics
-        - Image analysis
-        - High-throughput screening
+        - End-to-end pipeline development
+    - name: Bioinformatics data science   
+      item:
+        - Microscopy image analysis
+        - High-throughput assay analysis        
+        - Data visualization
+        - Statistical analysis
+    - name: Database & data engineering
+      item:
+        - Data engineering
+        - Database management        
+        - SQL (Postgres, SQLite)
     - name: Programming
       item:
         - Python
         - R (including Shiny)
         - Bash
         - Perl
-    - name: Scalable Bioinformatics Engineering
+    - name: Scalable solutions
       item:
         - Docker
         - Apptainer (Singularity)        
         - Slurm (High Performance Computing)
         - Git
         - CI/CD
-        - Data engineering
-        - Database management        
-        - SQL (Postgres, SQLite)
-    - name: Data Analysis
-      item:
-        - Data visualization
-        - Statistical analysis
-    - name: Scientific Software
-      item:
-        - CLC Genomics Workbench
-        - GraphPad Prism
-        - FlowJo
-        - ImageJ
+
+
 
 education:
   show: true
@@ -80,7 +79,7 @@ education:
 experience:
   show: true
   order: 3
-  title: Professional Experience
+  title: Experience
   description: |
   items:
     - company: Bioinformatics Scientist 
@@ -164,11 +163,15 @@ publication:
   order: 4
   title: Publications and Abstracts
   description: |
-  items:
+  items:  
+    - title: The Case for Limiting “Sequences of Concern” to Those with Demonstrated Pathogenic Function
+      authors: Gil J, Esvelt KM, Koblentz G, Alexanian T, Treangen T, Lin-Gibson S, Forry SP, Diggans J, Berlips J, Hook-Barnard I, Mackelprang R, Bartling C, Gemler BT, Jagla C, Talley K, Carr PA, Beal J, Parker M, Wheeler N, Flyangolts K, Ternus KL, Godbold GD
+      conference: Applied Biosafety, 2025
+      link: 'https://doi.org/10.1089/apb.2025.0015'
     - title: Extensive Location Bias of the GPCR-Dependent Translatome via Site-Selective Activation of mTOR
-      authors: Klauer MJ, Jagla CAD, Tsvetanova N
-      conference: bioRxiv, 2024
-      link: 'https://doi.org/10.1101/2024.06.17.599400'
+      authors: Klauer MJ, Hall KL, Jagla CAD, Tsvetanova N
+      conference: PNAS, 2025
+      link: 'https://doi.org/10.1073/pnas.2414738122'
     - title: Multiomics Approach to Interrogate Translational Regulation of GPCR Signaling and its Spatial Bias
       authors: Klauer MJ, Jagla C, Tsvetanova N
       conference: J Pharmacology and Experimental Therapeutics, 2023
@@ -187,7 +190,7 @@ publication:
       link: 'https://doi.org/10.1124/mol.118.112854'
 
 award:
-  show: false
+  show: true
   order: 5
   title: Awards
   description: |
@@ -200,7 +203,7 @@ award:
         One of 19 students awarded a $4000 grant from a competitive, University-wide program to support a self-designed independent research project; investigated GPCR dimerization using immunofluorescence-based proximity ligation assays.
 
 certificate:
-  show: false
+  show: true
   order: 6
   title: Certificates
   description: |
