@@ -24,30 +24,27 @@ skill:
   order: 1
   title: Core Competencies
   description: |
-    Expertise in building scalable bioinformatics solutions for multi‑omics data integration, pathogen surveillance, and protein‑function analysis.
+    Expertise in building scalable bioinformatics solutions for threat detection, multi‑omics analysis, and protein function analysis.
   groups:
     - name: Omics Data Science
       item:
         - Bulk & single cell genomics, metagenomics, transcriptomics, translatomics
         - End-to-end development of integrative multi-omics pipelines
+        - Pathogen detection & biosurveillance        
         - Differential expression & pathway/function enrichment
-        - Pathogen detection & biosurveillance
     - name: Protein Analytics
       item:
         - AI‑assisted protein design & resilience analysis (AlphaFold, ProteinMPNN)
         - Homology modeling, motif discovery, functional annotation (InterPro, Pfam)
-    - name: Scalable Solutions
-      item:
-        - Containerization (Docker, Apptainer/Singularity)
-        - HPC-native orchestration (Slurm, Apptainer)
-        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, pytest, conda, venv, renv)
-        - Data engineering, ETL pipelines, schema design, relational databases
     - name: Programming & Visualization
       item:
         - Python, R, Bash, Perl, SQL
-        - Interactive visualisation (Plotly, R/Shiny, ggplot2, Seurat)
-
-
+        - Interactive visualization (Plotly, R/Shiny, ggplot2, Seurat)
+    - name: Scalable Solutions
+      item:
+        - Containerization & HPC orchestration (Docker, Apptainer/Singularity, Slurm)
+        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, pytest, conda, venv, renv)
+        - Data engineering, ETL pipelines, schema design, relational databases
 
 education:
   show: true
