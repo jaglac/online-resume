@@ -25,53 +25,40 @@ skill:
   title: Skills
   description: |
   groups:
-    - name: Programming Languages
-      item:
-        - R (R Shiny)
-        - Python
-        - Perl
-        - Bash
-        - SQL (Postgres, SQLite)
-    - name: Programming Tools
-      item:
-        - Docker & Apptainer (containerization)
-        - Git (version control)
-        - Slurm (HPC job management)
-    - name: Computing
-      item:
-        - High Performance 
-        - High Security
-        - UNIX/Linux
-        - Windows
-        - macOS
     - name: Biological Data Science
       item:
         - Bulk and single cell `omics
         - Integrative multi-omics
         - Image analysis
         - High-throughput screening
+    - name: Programming
+      item:
+        - Python
+        - R (including Shiny)
+        - Bash
+        - Perl
+    - name: Scalable Bioinformatics Engineering
+      item:
+        - Docker
+        - Apptainer (formerly Singularity)
+        - Git
+        - CI/CD
+        - Slurm (High Performance Computing)
+    - name: Database Management
+      item:
+        - SQL (Postgres, SQLite)
+        - Data engineering
+        - Data wrangling
     - name: Data Analysis
       item:
         - Data visualization
         - Statistical analysis
-    - name: Database Management
-      item:
-        - Data engineering
-        - Data wrangling
     - name: Scientific Software
       item:
         - CLC Genomics Workbench
         - GraphPad Prism
         - FlowJo
         - ImageJ
-    - name: Additional Software
-      item:
-        - Microsoft Office
-        - Adobe Creative Cloud
-        - EndNote
-        - Zotero
-
-
 
 education:
   show: true
