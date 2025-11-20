@@ -40,7 +40,7 @@ skill:
       item:
         - Containerization (Docker, Apptainer/Singularity)
         - HPC-native orchestration (Slurm, Apptainer)
-        - Version control, CI/CD, test-driven development, reproducible environments (Git, Jenkins, pytest, conda, renv, venv)
+        - Version control, CI/CD, test-driven development, reproducible environments (Git, Jenkins, pytest, conda)
         - Data engineering, ETL pipelines, schema design
         - Relational databases, SQL (Postgres, SQLite)
     - name: Programming & visualization
