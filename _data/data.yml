@@ -43,8 +43,8 @@ skill:
     - name: Scalable Solutions
       item:
         - Containerization & HPC orchestration (Docker, Apptainer/Singularity, Slurm)
-        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, pytest, conda, venv, renv)
-        - Data engineering, ETL pipelines, schema design, relational databases
+        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, conda, venv, renv)
+        - Data engineering, database management, ETL pipelines, schema design
 
 education:
   show: true
