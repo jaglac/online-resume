@@ -24,7 +24,7 @@ skill:
   order: 1
   title: Core Competencies
   description: |
-  Expertise in building production‑ready, scalable bio‑informatics solutions for multi‑omics data integration, pathogen surveillance, and protein‑function analysis.
+    Expertise in building production‑ready, scalable bio‑informatics solutions for multi‑omics data integration, pathogen surveillance, and protein‑function analysis.
   groups:
     - name: Omics Data Science
       item:
