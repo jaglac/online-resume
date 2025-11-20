@@ -13,7 +13,7 @@
 
 ## Live Link
 
-:point_right: [online-resume][Live Resume] :point_left:
+:point_right: [online-resume][Live] :point_left:
 
 ## Getting Started
 
@@ -75,7 +75,7 @@ You can read and follow [Cloudflare Pages][Cloudflare Pages], [Vercel][Vercel] d
 - Hugo Version: [hugo-theme-online-resume][Other Version]
 
 
-[Demo]: https://jaglac.github.io/online-resume
+[Live]: https://jaglac.github.io/online-resume
 [Cloudflare Pages]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-jekyll-site/
 [Vercel]: https://vercel.com/guides/deploying-jekyll-with-vercel
 [Other Version]: https://github.com/tarrex/hugo-theme-online-resume
