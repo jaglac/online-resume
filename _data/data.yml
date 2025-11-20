@@ -20,7 +20,7 @@ contact:
 
 
 skill:
-  show: false
+  show: true
   order: 1
   title: Skills
   description: |
