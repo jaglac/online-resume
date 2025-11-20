@@ -27,10 +27,9 @@ skill:
   groups:
     - name: Genomics & multi-omics
       item:
-        - Bulk & single cell `omics
-        - Integrative multi-omics
+        - Bulk & single cell `omics, integrative multi-omics
         - End-to-end pipeline development
-    - name: Bioinformatics data science   
+    - name: Biological data science   
       item:
         - Microscopy image analysis
         - High-throughput assay analysis        
@@ -86,26 +85,24 @@ experience:
       link: 
       tags: 
       date: 2024.06 - Present
-      role: Raytheon BBN Technologies
-      location: Charlottesville, VA
+      role: RTX BBN Technologies
+      location: Cambridge, MA
       description: |
-        Contributing to interdisciplinary programs bringing together biology, engineering, and data science to develop and transition new biotechnology solutions in support of national defense.
-        + Building and developing bioinformatics software
-        + Performing data science (analysis, automation, and visualization) & biostatistical analyses
-        + Communicating scientific subject matter (publications, presentations, and proposals)
+        Developing innovative biotechnology and bioinformatics solutions in support of national defense.
+        + Bioinformatics and technical lead for fieldable sequencing-based tactical biothreat detection platform
+        + Developing integrated pipeline for engineering photoswitchable tag-induced protein dimerization
+        + Built pipeline for discovery of structural homology-based motifs resilient to AI-enabled engineering of pathogen proteins
 
     - company: Bioinformatics Data Scientist 
       link:
       tags: 
       date: 2023.08 - 2024.06
-      role: Signature Science (via Worldwide Counter Threat Solutions)
+      role: Worldwide Counter Threat Solutions
       location: Charlottesville, VA
       description: |
-        Advanced R&D for genetic exploitation for intelligence purposes related to human DNA and biowarfare agents.
-        + Developed pipelines, packages, tools, and Docker containers to support genetic and genomic data analysis
-        + Built and optimized computational methods for data and database exploitation
-        + Engineered and managed custom databases for sequence analysis
-        + Implemented computational tools and methods to interpret biological meaning from genetic and genomic data
+        Advanced R&D in support of biological threat characterization.
+        + Developed pipelines, packages, tools, and containers for analysis and extraction of biological meaning from genetic and genomic data
+        + Built and optimized computational methods and custom databases for exploitations of data and databases in support of sequence analysis
 
     - company: Computational Scientist 
       link:
@@ -114,12 +111,9 @@ experience:
       role: University of Virginia, Research Computing
       location: Charlottesville, VA
       description: |
-        Facilitated biological and biomedical research by engaging with faculty to produce new computing solutions within their fields of research.
-        + Leveraged domain expertise in bioinformatics, genetics/genomics, and pharmacology to provide research and technical support for researchers
+        Leveraged domain expertise in bioinformatics, genetics/genomics, and pharmacology to facilitate biological and biomedical research by engaging with faculty to produce new computing solutions.
         + Developed and applied novel domain-specific data analytic tools to support academic research in the University's high-performance and high-security computing environments
-        + Consulted on bioinformatics research projects including transcriptomics, genomics, single cell 'omics, multi-omics, etc.
-        + Taught workshops on various subjects including data visualization, single-cell RNAseq, and predictive protein folding machine learning models
-        + Implemented GPU-accelerated bioinformatics software packages on high-performance computing cluster
+        + Consulted on bioinformatics research projects including transcriptomics, genomics, single cell 'omics, multi-omics, data visualization, single-cell RNAseq, and predictive protein folding machine learning models
 
     - company: Research Technician II 
       link:
@@ -128,20 +122,18 @@ experience:
       role: Duke University
       location: Durham, NC
       description: |
-        Managed independent research project by developing wet-lab methods, designing and executing experiments, and building novel bioinformatic analysis pipelines.
+        Managed independent research project including research design, development and execution of bench protocols, and building novel bioinformatics analysis pipelines.
         + Established start-to-finish workflow for parallel multi-omics experiments, including bioinformatics and biostatistics analysis
         + Investigated the regulation of GPCR-mediated gene expression, including functional selectivity in transcriptional and post-transcriptional responses to agonist treatment
-        + Facilitated colleagues' research via lab management duties (training of new personnel, safety compliance, inventory management)
   
-    - company: In Vitro Biologist 
+    - company: Biologist 
       link:
       tags: 
       date: 2017.11 - 2019.05
       role: Pfizer (via Spectrix Analytical Services)
       location: Groton, CT
       description: |
-        Contributed to assay development and research projects, and executed high-throughput screens of thousands of compounds weekly.
-        + Collaborated with biologists, chemists, and cheminformaticists to deliver comparative analysis of in vitro hepatic metabolism assays
+        Contributed to assay development and research projects, and collaborated with biologists, chemists, and cheminformaticists to deliver comparative analysis of in vitro hepatic metabolism assays in high-throughput screens of thousands of compounds weekly.
         + Independently optimized and modified experimental protocols to facilitate screening of compounds with abnormal physicochemical properties, resulting in the first collection of metabolic stability data for compounds of this type
         + Evaluated hepatic metabolic stability and drug-drug interactions at cytochrome P450s of 1000+ compounds weekly in high-throughput plate-based assays, including use of automated liquid handlers, LC-MS/MS bioanalysis, and statistical data analysis
 
@@ -152,11 +144,9 @@ experience:
       role: University of Connecticut
       location: Storrs, CT
       description: |
-        Managed ongoing multi-lab research project focused on drug discovery for novel pain therapies.
+        Led ongoing multi-lab research project focused on drug discovery for novel pain therapies.
         + Evaluated novel allosteric modulators of GPCRs for cooperativity with orthosteric ligands and signaling bias, using classical biochemical and cell biology techniques such as radioligand binding, confocal microscopy, western blotting, and RT-qPCR
         + Independently developed a protocol for proximity ligation assays (an immunofluorescence-based technique) to evaluate dimerization of GPCRs (funded via competitive individual award)
-        + Facilitated colleagues' research via lab management duties (training of new personnel, safety compliance, inventory management)
-
 
 publication:
   show: true
@@ -190,7 +180,7 @@ publication:
       link: 'https://doi.org/10.1124/mol.118.112854'
 
 award:
-  show: true
+  show: false
   order: 5
   title: Awards
   description: |
@@ -203,7 +193,7 @@ award:
         One of 19 students awarded a $4000 grant from a competitive, University-wide program to support a self-designed independent research project; investigated GPCR dimerization using immunofluorescence-based proximity ligation assays.
 
 certificate:
-  show: true
+  show: false
   order: 6
   title: Certificates
   description: |
