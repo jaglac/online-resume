@@ -31,10 +31,10 @@ skill:
         - End-to-end pipeline development
     - name: Biological data science   
       item:
-        - Microscopy image analysis
-        - High-throughput assay analysis        
         - Data visualization
         - Statistical analysis
+        - Microscopy image analysis
+        - High-throughput assay analysis
     - name: Data engineering
       item:
         - ETL pipelines, schema design
@@ -126,7 +126,7 @@ experience:
         + Established start-to-finish workflow for parallel multi-omics experiments, including bioinformatics and biostatistics analysis
         + Investigated the regulation of GPCR-mediated gene expression, including functional selectivity in transcriptional and post-transcriptional responses to agonist treatment
   
-    - company: Biologist 
+    - company: In Vitro Biologist 
       link:
       tags: 
       date: 2017.11 - 2019.05
