@@ -49,6 +49,18 @@ education:
   description: |
 
   items:
+    - institution: M.S., Pharmacology
+      link: 
+      date: 2019 - 2021
+      major: University of California - Irvine
+      degree:
+    - institution: B.S., Molecular and Cell Biology
+      link:
+      date: 2013 - 2017
+      major: University of Connecticut
+      degree:
+
+      
     - institution: University of California - Irvine
       link: 
       date: 2019 - 2021
@@ -143,8 +155,8 @@ patent:
     + Klauer MJ, Hall KL, **Jagla CA**, Tsvetanova NG. *Extensive location bias of the GPCR-dependent translatome via site-selective activation of mTOR.* Proceedings of the National Academy of Sciences. 2025 Feb 25;122(8);2414738122.
     + Klauer MJ, **Jagla C**, Tsvetanova N. *Multiomics approach to interrogate translational regulation to GPCR signaling and its spatial bias.* The Journal of Pharmacology and Experimental Therapeutics. 2023 Jun 1;385;150.
     + **Jagla C**, Tsvetanova N. *Post‐Transcriptional Regulation of Cellular Responses to GPCR Signaling.* The FASEB Journal. 2021 May;35.
-    + Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, **Jagla C**, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L. Mechanistic insights on clearance and inhibition discordance between liver microsomes and hepatocytes when clearance in liver microsomes is higher than in hepatocytes.* European Journal of Pharmaceutical Sciences. 2020 Dec 1;155;105541.
-    + **Jagla CAD**, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA. *Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin–Dependent Responses.* Molecular Pharmacology. 2019 Jan 1;95(1);1-0.
+    + Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, **Jagla C**, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L. *Mechanistic insights on clearance and inhibition discordance between liver microsomes and hepatocytes when clearance in liver microsomes is higher than in hepatocytes.* European Journal of Pharmaceutical Sciences. 2020 Dec 1;155;105541.
+    + **Jagla CAD**, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA. *Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin–Dependent Responses. *Molecular Pharmacology. 2019 Jan 1;95(1);1-0.
     
 publication:
   show: false
