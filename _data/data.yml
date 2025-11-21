@@ -50,28 +50,11 @@ education:
 
   items:
     - institution: M.S., Pharmacology
-      link: 
       date: 2019 - 2021
       major: University of California - Irvine
-      degree:
     - institution: B.S., Molecular and Cell Biology
-      link:
       date: 2013 - 2017
       major: University of Connecticut
-      degree:
-
-      
-    - institution: University of California - Irvine
-      link: 
-      date: 2019 - 2021
-      major: Pharmacology
-      degree: M.S.
-        
-    - institution: University of Connecticut
-      link:
-      date: 2013 - 2017
-      major: Molecular and Cell Biology
-      degree: B.S.
 
 experience:
   show: true
@@ -90,7 +73,7 @@ experience:
         + Bioinformatics and technical lead for fieldable sequencing-based tactical biothreat detection platform
         + Developing integrated pipeline for engineering photoswitchable tag-induced protein dimerization
         + Built pipeline for discovery of structural homology-based motifs resilient to AI-enabled engineering of pathogen proteins
-
+        
     - company: Bioinformatics Data Scientist 
       link:
       tags: 
