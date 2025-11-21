@@ -24,16 +24,15 @@ skill:
   order: 1
   title: Core Competencies
   description: |
-    Expertise in building scalable bioinformatics solutions for threat detection, multi‑omics analysis, and protein function analysis.
+    Expertise in building scalable bioinformatics solutions for pathogen detection, functional multi‑omics, and protein function prediction.
   groups:
     - name: Bioinformatics
       item:
-        - Bulk & single cell genomics, metagenomics, transcriptomics, translatomics
-        - End-to-end development of integrative multi-omics pipelines
-        - Pathogen detection & biosurveillance
-        - Differential expression & pathway/function enrichment
-        - AI‑assisted protein design & resilience analysis
-        - Protein & ligand binding modeling, motif discovery
+        - Bulk & single cell genomics, transcriptomics, translatomics, metagenomics
+        - End-to-end development of integrative multi-omics analysis pipelines
+        - Microbial genomics (pathogen detection, phylogenetic & pangenomic analyses)
+        - Mechanism discovery & characterization (biological pathway analysis, functional genomics)
+        - AI‑enabled protein engineering (modeling, ligand binding, motif discovery, function prediction)
     - name: Scalable Solutions
       item:
         - Python, R, Bash, Perl, SQL
@@ -88,7 +87,7 @@ experience:
       description: |
         Advanced R&D in support of biological threat characterization.
         + Developed pipelines, packages, tools, and containers for analysis and extraction of biological meaning from genetic and genomic data
-        + Built and optimized computational methods and custom databases for exploitations of data and databases in support of sequence analysis
+        + Built computational methods and custom databases for exploitations in support of sequence analysis
 
     - company: Computational Scientist 
       link:
