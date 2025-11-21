@@ -26,22 +26,18 @@ skill:
   description: |
     Expertise in building scalable bioinformatics solutions for threat detection, multi‑omics analysis, and protein function analysis.
   groups:
-    - name: Omics Data Science
+    - name: Bioinformatics
       item:
         - Bulk & single cell genomics, metagenomics, transcriptomics, translatomics
         - End-to-end development of integrative multi-omics pipelines
-        - Pathogen detection & biosurveillance        
+        - Pathogen detection & biosurveillance
         - Differential expression & pathway/function enrichment
-    - name: Protein Analytics
-      item:
-        - AI‑assisted protein design & resilience analysis (AlphaFold, ProteinMPNN)
-        - Homology modeling, motif discovery, functional annotation (InterPro, Pfam)
-    - name: Programming & Visualization
+        - AI‑assisted protein design & resilience analysis
+        - Protein & ligand binding modeling, motif discovery
+    - name: Scalable Solutions
       item:
         - Python, R, Bash, Perl, SQL
         - Interactive visualization (Plotly, R/Shiny, ggplot2, Seurat)
-    - name: Scalable Solutions
-      item:
         - Containerization & HPC orchestration (Docker, Apptainer/Singularity, Slurm)
         - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, conda, venv, renv)
         - Data engineering, database management, ETL pipelines, schema design
