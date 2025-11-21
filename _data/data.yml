@@ -33,6 +33,7 @@ skill:
         - Microbial genomics (pathogen detection, phylogenetic & pangenomic analyses)
         - Mechanism discovery & characterization (biological pathway analysis, functional genomics)
         - AI‑enabled protein engineering (modeling, ligand binding, motif discovery, function prediction)
+        
     - name: Scalable Solutions
       item:
         - Python, R, Bash, Perl, SQL
