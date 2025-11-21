@@ -70,7 +70,7 @@ experience:
     - company: Bioinformatics Scientist 
       link: 
       tags: 
-      date: 2024.06 - Present
+      date: Jun 2024 - Present
       role: RTX BBN Technologies
       location: Cambridge, MA
       description: |
@@ -82,8 +82,8 @@ experience:
     - company: Bioinformatics Data Scientist 
       link:
       tags: 
-      date: 2023.08 - 2024.06
-      role: Worldwide Counter Threat Solutions
+      date: Aug 2023 - Jun 2024
+      role: Signature Science (via Worldwide Counter Threat Solutions)
       location: Charlottesville, VA
       description: |
         Advanced R&D in support of biological threat characterization.
@@ -93,7 +93,7 @@ experience:
     - company: Computational Scientist 
       link:
       tags: 
-      date: 2023.02 - 2023.08
+      date: Feb 2023 - Aug 2023
       role: University of Virginia, Research Computing
       location: Charlottesville, VA
       description: |
@@ -104,7 +104,7 @@ experience:
     - company: Research Technician II 
       link:
       tags: 
-      date: 2019.05 - 2021.06
+      date: May 2019 - Jun 2021
       role: Duke University
       location: Durham, NC
       description: |
@@ -115,7 +115,7 @@ experience:
     - company: In Vitro Biologist 
       link:
       tags: 
-      date: 2017.11 - 2019.05
+      date: Nov 2017 - May 2019
       role: Pfizer (via Spectrix Analytical Services)
       location: Groton, CT
       description: |
@@ -126,11 +126,11 @@ experience:
     - company: Undergradute Research Assistant 
       link:
       tags: 
-      date: 2015.07 - 2017.08
+      date: Jul 2015 - Aug 2017
       role: University of Connecticut
       location: Storrs, CT
       description: |
-        Led ongoing multi-lab research project focused on drug discovery for novel pain therapies.
+        Led ongoing multi-lab research project focused on drug discovery and mechanism characterization for novel pain therapies.
         + Evaluated novel allosteric modulators of GPCRs for cooperativity with orthosteric ligands and signaling bias, using classical biochemical and cell biology techniques such as radioligand binding, confocal microscopy, western blotting, and RT-qPCR
         + Independently developed a protocol for proximity ligation assays (an immunofluorescence-based technique) to evaluate dimerization of GPCRs (funded via competitive individual award)
 
