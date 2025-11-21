@@ -8,15 +8,15 @@ basic:
 contact:
   # meta
   location: Virginia, USA # location
-  email: jaglacaitlin@gmail.com    # email address
+  email:    # email address
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:     # site URL without schema, like example.com, will automatically prepand "https://"
 
   # programmer
-  github: jaglac                 # username          | https://github.com/username
+  github: jaglac                 # username          | https://github.com/jaglac
 
   # other cv
-  linkedin: jaglacad               # username          | https://linkedin.com/in/username
+  linkedin: jaglacad               # username          | https://linkedin.com/in/jaglacad
 
 
 skill:
@@ -72,7 +72,7 @@ experience:
       tags: 
       date: Jun 2024 - Present
       role: RTX BBN Technologies
-      location: Cambridge, MA
+      location: Charlottesville, VA
       description: |
         Developing innovative biotechnology and bioinformatics solutions in support of national defense.
         + Bioinformatics and technical lead for fieldable sequencing-based tactical biothreat detection platform
