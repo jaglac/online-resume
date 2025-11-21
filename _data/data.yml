@@ -39,7 +39,7 @@ skill:
         - Data engineering, database management, ETL pipelines, schema design
         
 skill:
-  show: true
+  show: false
   order: 1
   title: Core Competencies
   description: |
