@@ -44,7 +44,7 @@ skill:
 
 education:
   show: true
-  order: 2
+  order: 3
   title: Education
   description: |
 
@@ -63,7 +63,7 @@ education:
 
 experience:
   show: true
-  order: 3
+  order: 2
   title: Experience
   description: |
   items:
