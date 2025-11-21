@@ -25,6 +25,25 @@ skill:
   title: Core Competencies
   description: |
     Expertise in building scalable bioinformatics solutions for pathogen detection, functional multi‑omics, and protein function prediction.
+    ### Bioinformatics
+        - Bulk & single cell genomics, transcriptomics, translatomics, metagenomics
+        - End-to-end development of integrative multi-omics analysis pipelines
+        - Microbial genomics (pathogen detection, phylogenetic & pangenomic analyses)
+        - Mechanism discovery & characterization (biological pathway analysis, functional genomics)
+        - AI‑enabled protein engineering (modeling, ligand binding, motif discovery, function prediction)
+    ### Scalable Solutions
+        - Python, R, Bash, Perl, SQL
+        - Interactive visualization (Plotly, R/Shiny, ggplot2, Seurat)
+        - Containerization & HPC orchestration (Docker, Apptainer/Singularity, Slurm)
+        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, conda, venv, renv)
+        - Data engineering, database management, ETL pipelines, schema design
+        
+skill:
+  show: true
+  order: 1
+  title: Core Competencies
+  description: |
+    Expertise in building scalable bioinformatics solutions for pathogen detection, functional multi‑omics, and protein function prediction.
   groups:
     - name: Bioinformatics
       item:
