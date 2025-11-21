@@ -38,29 +38,6 @@ skill:
         - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, conda, venv, renv)
         - Data engineering, database management, ETL pipelines, schema design
         
-skill:
-  show: false
-  order: 1
-  title: Core Competencies
-  description: |
-    Expertise in building scalable bioinformatics solutions for pathogen detection, functional multi‑omics, and protein function prediction.
-  groups:
-    - name: Bioinformatics
-      item:
-        - Bulk & single cell genomics, transcriptomics, translatomics, metagenomics
-        - End-to-end development of integrative multi-omics analysis pipelines
-        - Microbial genomics (pathogen detection, phylogenetic & pangenomic analyses)
-        - Mechanism discovery & characterization (biological pathway analysis, functional genomics)
-        - AI‑enabled protein engineering (modeling, ligand binding, motif discovery, function prediction)
-        
-    - name: Scalable Solutions
-      item:
-        - Python, R, Bash, Perl, SQL
-        - Interactive visualization (Plotly, R/Shiny, ggplot2, Seurat)
-        - Containerization & HPC orchestration (Docker, Apptainer/Singularity, Slurm)
-        - Version control, CI/CD, test-driven development, reproducibility (Git, Jenkins, conda, venv, renv)
-        - Data engineering, database management, ETL pipelines, schema design
-
 education:
   show: true
   order: 3
@@ -148,7 +125,7 @@ experience:
         + Evaluated novel allosteric modulators of GPCRs for cooperativity with orthosteric ligands and signaling bias, using classical biochemical and cell biology techniques such as radioligand binding, confocal microscopy, western blotting, and RT-qPCR
         + Independently developed a protocol for proximity ligation assays (an immunofluorescence-based technique) to evaluate dimerization of GPCRs (funded via competitive individual award)
 
-patent:
+publication:
   show: true
   order: 9
   title: Publications and Abstracts
@@ -160,49 +137,5 @@ patent:
     + Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, **Jagla C**, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L. *Mechanistic insights on clearance and inhibition discordance between liver microsomes and hepatocytes when clearance in liver microsomes is higher than in hepatocytes.* European Journal of Pharmaceutical Sciences. 2020 Dec 1;155;105541.
     + **Jagla CAD**, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA. *Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin–Dependent Responses. *Molecular Pharmacology. 2019 Jan 1;95(1);1-0.
     
-publication:
-  show: false
-  order: 4
-  title: Publications and Abstracts
-  description: |
-  items:  
-    - title: Godbold GD, Ternus KL, Flyangolts K, Wheeler N, Parker M, Beal J, Carr PA, Talley K, Jagla C, Gemler BT, Bartling C, Mackelprang R, Hook-Barnard I, Berlips J, Diggans J, Forry SP, Lin-Gibson S, Treangen T, Alexanian T, Koblentz G, Esvelt KM, Gil J. The Case for Limiting “Sequences of Concern” to Those with Demonstrated Pathogenic Function. Applied Biosafety. 2025 May 26.
-      link: 'https://doi.org/10.1089/apb.2025.0015'
-    - title: Klauer MJ, Hall KL, Jagla CA, Tsvetanova NG. Extensive location bias of the GPCR-dependent translatome via site-selective activation of mTOR. Proceedings of the National Academy of Sciences. 2025 Feb 25;122(8);2414738122.
-      link: 'https://doi.org/10.1073/pnas.2414738122'
-    - title: Klauer MJ, Jagla C, Tsvetanova N. Multiomics approach to interrogate translational regulation to GPCR signaling and its spatial bias. The Journal of Pharmacology and Experimental Therapeutics. 2023 Jun 1;385;150.
-      link: 'https://doi.org/10.1124/jpet.122.168870'
-    - title: Jagla C, Tsvetanova N. Post‐Transcriptional Regulation of Cellular Responses to GPCR Signaling. The FASEB Journal. 2021 May;35.
-      link: 'https://doi.org/10.1096/fasebj.2021.35.S1.04553'
-    - title: Keefer C, Chang G, Carlo A, Novak JJ, Banker M, Carey J, Cianfrogna J, Eng H, Jagla C, Johnson N, Jones R, Jordan S, Lazzaro S, Liu J, Scott Obach R, Riccardi K, Tess D, Umland J, Racich J, Varma M, Visswanathan R, Di L. Mechanistic insights on clearance and inhibition discordance between liver microsomes and hepatocytes when clearance in liver microsomes is higher than in hepatocytes. European Journal of Pharmaceutical Sciences. 2020 Dec 1;155;105541.
-      link: 'https://doi.org/10.1016/j.ejps.2020.105541'
-    - title: Jagla CAD, Scott CE, Tang Y, Qiao C, Mateo-Semidey GE, Yudowski GA, Lu D, Kendall DA. Pyrimidinyl Biphenylureas Act as Allosteric Modulators to Activate Cannabinoid Receptor 1 and Initiate β-Arrestin–Dependent Responses. Molecular Pharmacology. 2019 Jan 1;95(1);1-0.
-      link: 'https://doi.org/10.1124/mol.118.112854'
-
-
-award:
-  show: false
-  order: 5
-  title: Awards
-  description: |
-  items:
-    - name: Research Funding - IDEA Grant
-      awarder: University of Connecticut 
-      date: 2016
-      link: 
-      description: |
-        One of 19 students awarded a $4000 grant from a competitive, University-wide program to support a self-designed independent research project; investigated GPCR dimerization using immunofluorescence-based proximity ligation assays.
-
-certificate:
-  show: false
-  order: 6
-  title: Certificates
-  description: |
-  items:
-    - name: Quantitative Digital Image Analysis
-      issuer: Harvard Medical School
-      date: 2016
-      link: 
-      description: |
 
 close: <strong>Sorry, my resume has been hidden.</strong>
